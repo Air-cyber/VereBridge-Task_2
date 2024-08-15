@@ -11,5 +11,13 @@ Library Management system is developed using C++ Programming Language and differ
   Return book
   Basic Fine charging system
 
-  # Working Pics
+  # Pics
+  ![Screenshot (568)](https://github.com/user-attachments/assets/502e7190-8ca7-4f1b-9fc8-aec29f9845c8)
   
+  ![Screenshot (569)](https://github.com/user-attachments/assets/734373a1-123d-4cf0-9fe1-da0cd55bec09)
+
+  # Working
+  Run given program above and enter password 0000.
+
+  Select 3 option and create Student database and Book database , Then Start Book Issue and Book Return functionality.
+
